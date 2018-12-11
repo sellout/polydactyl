@@ -1,3 +1,5 @@
+**This project has been superseded by [Cheshire](https://github.com/sellout/cheshire).**
+
 # Polydactyl
 
 A reimplementation of [Cats](https://github.com/typelevel/cats) taking advantage of `-Ykind-polymorphism`.
